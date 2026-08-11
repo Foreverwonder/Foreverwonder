@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="570" viewBox="0 0 1200 570">
+  <rect width="1200" height="570" fill="#0f172a"/>
+  <text x="40" y="0" font-size="0"></text>
+  <rect x="40" y="30" width="560" height="150" rx="16" fill="#1e293b" stroke="#334155"/>
+  <text x="68" y="82" font-size="30">🧭</text>
+  <text x="118" y="84" font-size="20" font-weight="700" fill="#e2e8f0">ai-projects-exploration</text>
+  <text x="68" y="122" font-size="15" fill="#94a3b8">AI 项目探险手记：两年 130 个项目的数据画像</text>
+  <text x="68" y="154" font-size="12.5" fill="#22d3ee">→ github.com/Foreverwonder/ai-projects-exploration</text><rect x="630" y="30" width="560" height="150" rx="16" fill="#1e293b" stroke="#334155"/>
+  <text x="658" y="82" font-size="30">📖</text>
+  <text x="708" y="84" font-size="20" font-weight="700" fill="#e2e8f0">conversations-with-god-skill</text>
+  <text x="658" y="122" font-size="15" fill="#94a3b8">与神对话全五卷蒸馏：20 个可执行 AI skill</text>
+  <text x="658" y="154" font-size="12.5" fill="#22d3ee">→ github.com/Foreverwonder/conversations-with-god-skill</text><rect x="40" y="210" width="560" height="150" rx="16" fill="#1e293b" stroke="#334155"/>
+  <text x="68" y="262" font-size="30">📈</text>
+  <text x="118" y="264" font-size="20" font-weight="700" fill="#e2e8f0">DestinyMatrix</text>
+  <text x="68" y="302" font-size="15" fill="#94a3b8">人生K线图 —— 把命理画成 K 线</text>
+  <text x="68" y="334" font-size="12.5" fill="#22d3ee">→ github.com/Foreverwonder/DestinyMatrix</text><rect x="630" y="210" width="560" height="150" rx="16" fill="#1e293b" stroke="#334155"/>
+  <text x="658" y="262" font-size="30">🎙️</text>
+  <text x="708" y="264" font-size="20" font-weight="700" fill="#e2e8f0">translateAPI_By_ClaudeCode</text>
+  <text x="658" y="302" font-size="15" fill="#94a3b8">豆包同声翻译 2.0，Claude Code 一键部署</text>
+  <text x="658" y="334" font-size="12.5" fill="#22d3ee">→ github.com/Foreverwonder/translateAPI_By_ClaudeCode</text><rect x="40" y="390" width="560" height="150" rx="16" fill="#1e293b" stroke="#334155"/>
+  <text x="68" y="442" font-size="30">🔮</text>
+  <text x="118" y="444" font-size="20" font-weight="700" fill="#e2e8f0">bazi-skillByClaudeOpus4.7Kiro</text>
+  <text x="68" y="482" font-size="15" fill="#94a3b8">八字排盘 skill，用 Claude 4.7 调教</text>
+  <text x="68" y="514" font-size="12.5" fill="#22d3ee">→ github.com/Foreverwonder/bazi-skillByClaudeOpus4.7Kiro</text><rect x="630" y="390" width="560" height="150" rx="16" fill="#1e293b" stroke="#334155"/>
+  <text x="658" y="442" font-size="30">🤖</text>
+  <text x="708" y="444" font-size="20" font-weight="700" fill="#e2e8f0">openclaw-win11-qwen-feishu-skill</text>
+  <text x="658" y="482" font-size="15" fill="#94a3b8">在 Win11 部署 OpenClaw，接飞书 + 通义</text>
+  <text x="658" y="514" font-size="12.5" fill="#22d3ee">→ github.com/Foreverwonder/openclaw-win11-qwen-feishu-skill</text>
+</svg>
