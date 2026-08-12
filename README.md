@@ -2,19 +2,19 @@
 
 一个在 AI 时代什么都想试试的人。白天摸鱼，晚上折腾 AI，周末偶尔给老祖宗打工（算命）。
 
-<img src="https://raw.githubusercontent.com/Foreverwonder/Foreverwonder/main/assets/hero.svg" width="100%" alt="GitHub 数据一览"/>
+<img src="assets/hero.svg" width="100%" alt="GitHub 数据一览"/>
 
 ## 🧭 这两年我在玩什么
 
 2024 年踩了踩水，2025 年下半年开始正式上头，然后就没停下来过。D 盘那个 AI 项目文件夹，两年攒了 **130 个项目**——我把它们全翻了一遍，做了份数据画像：
 
-👉 **[AI_Projects 探险手记](https://foreverwonder.github.io/ai-projects-exploration/)**（在线可看，两年 130 个项目一目了然）
+👉 **[AI_Projects 探险手记](https://foreverwonder.github.io/ai-projects-exploration/)**（在线可看）
 
-<img src="https://raw.githubusercontent.com/Foreverwonder/Foreverwonder/main/assets/timeline.svg" width="100%" alt="两年时间线"/>
+<img src="assets/timeline.svg" width="100%" alt="两年时间线"/>
 
 ## 🚀 精选项目
 
-<img src="https://raw.githubusercontent.com/Foreverwonder/Foreverwonder/main/assets/projects.svg" width="100%" alt="精选项目"/>
+<img src="assets/projects.svg" width="100%" alt="精选项目"/>
 
 ## 🔮 说点正经的
 
