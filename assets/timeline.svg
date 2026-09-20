@@ -1,6 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190">
-  <rect width="1200" height="190" fill="#0f172a"/>
-  <text x="60" y="40" font-size="16" font-weight="700" fill="#e2e8f0">📅 这两年干了啥（按最后修改时间统计）</text>
-  <circle cx="90" cy="80" r="14" fill="#64748b"/><text x="90" y="64" font-size="18" font-weight="800" fill="#e2e8f0" text-anchor="middle">2024</text><text x="90" y="112" font-size="15" fill="#64748b" text-anchor="middle" font-weight="600">踩了踩水</text><text x="90" y="136" font-size="13" fill="#94a3b8" text-anchor="middle">5 个项目</text><line x1="104" y1="80" x2="262" y2="80" stroke="#334155" stroke-width="3" stroke-dasharray="6 6"/><circle cx="420" cy="80" r="14" fill="#f472b6"/><text x="420" y="64" font-size="18" font-weight="800" fill="#e2e8f0" text-anchor="middle">2025</text><text x="420" y="112" font-size="15" fill="#f472b6" text-anchor="middle" font-weight="600">正式上头</text><text x="420" y="136" font-size="13" fill="#94a3b8" text-anchor="middle">58 个项目</text><line x1="434" y1="80" x2="592" y2="80" stroke="#334155" stroke-width="3" stroke-dasharray="6 6"/><circle cx="750" cy="80" r="14" fill="#34d399"/><text x="750" y="64" font-size="18" font-weight="800" fill="#e2e8f0" text-anchor="middle">2026</text><text x="750" y="112" font-size="15" fill="#34d399" text-anchor="middle" font-weight="600">停不下来</text><text x="750" y="136" font-size="13" fill="#94a3b8" text-anchor="middle">57 个项目</text>
-  <text x="1130" y="170" font-size="12" fill="#94a3b8" text-anchor="end">共 130 个项目 · 6.7GB · 27,865 个文件</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif">
+  <rect width="1200" height="200" fill="#0f172a"/>
+  <text x="60" y="42" font-size="16" font-weight="700" fill="#e2e8f0">📅 这两年干了啥（按最后修改时间统计）</text>
+  <circle cx="110" cy="88" r="15" fill="#64748b"/>
+  <text x="110" y="72" font-size="11" fill="#94a3b8" text-anchor="middle">2024</text>
+  <text x="110" y="94" font-size="14" font-weight="800" fill="#e2e8f0" text-anchor="middle">5</text>
+  <text x="110" y="124" font-size="15" fill="#64748b" text-anchor="middle" font-weight="600">踩了踩水</text>
+  <text x="110" y="148" font-size="13" fill="#94a3b8" text-anchor="middle">5 个项目</text>
+  <line x1="125" y1="88" x2="285" y2="88" stroke="#334155" stroke-width="3" stroke-dasharray="6 6"/>
+  <circle cx="420" cy="88" r="15" fill="#f472b6"/>
+  <text x="420" y="72" font-size="11" fill="#94a3b8" text-anchor="middle">2025</text>
+  <text x="420" y="94" font-size="14" font-weight="800" fill="#e2e8f0" text-anchor="middle">59</text>
+  <text x="420" y="124" font-size="15" fill="#f472b6" text-anchor="middle" font-weight="600">正式上头</text>
+  <text x="420" y="148" font-size="13" fill="#94a3b8" text-anchor="middle">59 个项目</text>
+  <line x1="435" y1="88" x2="595" y2="88" stroke="#334155" stroke-width="3" stroke-dasharray="6 6"/>
+  <circle cx="730" cy="88" r="15" fill="#34d399"/>
+  <text x="730" y="72" font-size="11" fill="#94a3b8" text-anchor="middle">2026</text>
+  <text x="730" y="94" font-size="14" font-weight="800" fill="#e2e8f0" text-anchor="middle">75</text>
+  <text x="730" y="124" font-size="15" fill="#34d399" text-anchor="middle" font-weight="600">停不下来</text>
+  <text x="730" y="148" font-size="13" fill="#94a3b8" text-anchor="middle">75 个项目（到 9 月）</text>
+  <line x1="745" y1="88" x2="905" y2="88" stroke="#334155" stroke-width="3" stroke-dasharray="6 6"/>
+  <circle cx="1040" cy="88" r="15" fill="#818cf8"/>
+  <text x="1040" y="72" font-size="11" fill="#94a3b8" text-anchor="middle">合计</text>
+  <text x="1040" y="94" font-size="14" font-weight="800" fill="#e2e8f0" text-anchor="middle">149</text>
+  <text x="1040" y="124" font-size="15" fill="#818cf8" text-anchor="middle" font-weight="600">还没停</text>
+  <text x="1040" y="148" font-size="13" fill="#94a3b8" text-anchor="middle">13.6 GB · 4.95 万文件</text>
+  <text x="1140" y="182" font-size="12" fill="#94a3b8" text-anchor="end">还有 10 个空壳目录没算进去 · 数据 2026-09-20 实扫</text>
 </svg>
